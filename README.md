@@ -3,6 +3,9 @@ AndyJS
 
 JS and jQuery completions ST2
 
-The jQuery completions require a syntax file - there is one available on GitHub.
+The jQuery completions require a syntax file - there is one available via PackageControl. 
+Once this file is installed you can switch between JS and jQuery using the syntax options 
+at the bottom-right of the view.
+
 If you only require one of these completions files then you can still install both and 
-just delete the other file.
+just delete the other file. (Be aware, though, that it may be re-installed on a future update.)
