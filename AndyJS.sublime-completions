@@ -113,7 +113,7 @@
         "XDomainRequest()",
         "XMLHttpRequest()",
         // Global functions/constructors
-        { "trigger": "ActiveXObject()", "contents": "ActiveXObject(\"${1:Msxml2.XMLHTTP}\")$0" },
+        { "trigger": "ActiveXObject()", "contents": "ActiveXObject(\"${1:Microsoft.XMLHTTP}\")$0" },
         { "trigger": "Date()", "contents": "Date()" },
         { "trigger": "Date(full)", "contents": "Date(${1:year}, ${2:month}, ${3:day}, ${4:hours}, ${5:minute}, ${6:seconds}, ${7:ms})$0" },
         { "trigger": "Date(ms)", "contents": "Date(${1:milliseconds})$0" },
