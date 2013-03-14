@@ -1,7 +1,7 @@
 AndyJS
 ======
 
-JS and jQuery completions ST2
+JS and jQuery completions ST2 (replaced by AndyJS2)
 
 The jQuery completions require a syntax file - there is one available via PackageControl. 
 Once this file is installed you can switch between JS and jQuery using the syntax options 
